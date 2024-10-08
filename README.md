@@ -1,8 +1,7 @@
 <h3>About Me</h3>
   <ul>
     <li>BACKUP ACCOUNT. ORIGINAL ONE: "github.com/jaozzy"!!!</li>
-    <li>👨🏻‍💻 Currently working with web development from frontend to backend</li>
-    <li>🔍 In love with the world of Machine Learning</li>
+    <li>👨🏻‍💻 Currently working with backend web development</li>
     <li>📍 Santa Catarina, Brazil</li>
   </ul>
 
