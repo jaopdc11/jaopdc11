@@ -7,8 +7,8 @@
 
   <h3>Github Stats</h3>
   <div>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jaopdc11&show_icons=true&theme=dracula"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaopdc11&langs_count=10&layout=compact&theme=dracula"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=jaopdc11&show_icons=true&theme=dracula"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaopdc11&langs_count=10&layout=compact&theme=dracula"/>
   </div>
 
   <h3>Contact</h3>
