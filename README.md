@@ -53,8 +53,9 @@
 
 <h3>🌍 Languages I Speak</h3>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="USA" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="brazilian-portuguese" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="english" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png" alt="Italian" height="30"/>
 </p>
 
 ---
