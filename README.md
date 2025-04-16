@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey there! Welcome to my Temporary Account</h2>
+<h2 align="center">👋 Hey there! Welcome to my TGithub Profile</h2>
 <p align="center">Original Account: <a href="https://github.com/jaozzy">github.com/jaozzy</a></p>
 
 ---
@@ -23,7 +23,7 @@
 <h3>💼 Contact</h3>
 <div align="center">
   <a href="mailto:servicecontact.joao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/joaopd-c-644a2a251" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="www.linkedin.com/in/joaopedrodevcs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://wa.me/5547988563668" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://t.me/+5547999783190" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
@@ -46,6 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node.js" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="JQuery" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" height="40"/>
 </p>
 
 ---
@@ -56,13 +57,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="english" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png" alt="Italian" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/383px-Flag_of_Spain.svg.png" alt="Spain" height="30"/>
-</p>
-
----
-
-<h3>📚 Currently Studying</h3>
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" height="40"/>
 </p>
 
 ---
