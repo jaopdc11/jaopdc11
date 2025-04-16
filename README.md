@@ -31,23 +31,39 @@
 ---
 
 <h3>🚀 Skills</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node.js" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="JQuery" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" height="40"/>
-</p>
+<div align="center">
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" alt="React" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="JQuery" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node.js" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="Laravel" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/firebase/firebase-original.svg" alt="Firebase" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40"/>
+  </div>
+  <div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQLServer" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg" alt="Docker" height="52"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/azure/azure-original.svg" alt="Azure" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" alt="C" height="40"/>
+  </div>
+  
+  
+    
+    
+</div>
 
 ---
 
