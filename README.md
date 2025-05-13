@@ -1,11 +1,10 @@
-<h2 align="center">👋 Hey there! Welcome to my TGithub Profile</h2>
-<p align="center">Original Account: <a href="https://github.com/jaozzy">github.com/jaozzy</a></p>
+<h2 align="center">👋 Hey there! Welcome to my Github Profile</h2>
 
 ---
 
 <h3>About Me</h3>
 <ul>
-  <li>👨🏻‍💻 Passionate Backend Developer working on web technologies</li>
+  <li>👨🏻‍💻 Passionate FullStack Developer working on Web Technologies</li>
   <li>📍 Based in Santa Catarina, Brazil</li>
   <li>🎯 Always learning, always evolving</li>
 </ul>
