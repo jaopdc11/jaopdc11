@@ -13,7 +13,7 @@
 
 <h3>⚡ Github Stats</h3>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaopdc11&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaopdc11&theme=dracula&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaopdc11&langs_count=10&layout=compact&theme=dracula"/>
 </div>
 
