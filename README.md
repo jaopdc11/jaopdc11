@@ -45,8 +45,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="Laravel" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/firebase/firebase-original.svg" alt="Firebase" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40"/>
-  </div>
-  <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQLServer" height="40"/>
@@ -57,11 +55,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" alt="C" height="40"/>
+    <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" height="40"/>
+    <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/supabase/supabase-original.svg" alt="Supabase" height="40"/>
+    <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" height="40"/>
+    <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/cloudflare/cloudflare-original.svg" alt="CloudFlare" height="40"/>
+    <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/apache/apache-original.svg" alt="Apache" height="40"/>
+    <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/dotnetcore/dotnetcore-original.svg" alt="Asp .NET Core" height="40"/>
   </div>
-  
-  
-    
-    
 </div>
 
 ---
@@ -79,7 +79,4 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-gri
