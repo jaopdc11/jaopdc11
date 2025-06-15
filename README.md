@@ -82,4 +82,13 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-gri
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<h3>🛡️ Security & Pentesting</h3>
+<p>Besides being a fullstack developer, I also explore ethical hacking and cybersecurity.</p>
+<p>🔍 Check out my research and tools at <a href="https://github.com/0xjaopdc">@0xjaopdc</a></p>
