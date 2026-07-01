@@ -16,8 +16,8 @@
   <!-- <img width="36%" src="https://github-readme-stats.vercel.app/api?username=jaopdc11&theme=dracula&show_icons=true&hide_border=true"/>
   <img width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaopdc11&theme=dracula&hide_border=true"/>
   <img width="24%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaopdc11&layout=compact&langs_count=10&theme=dracula&hide_border=true"/> -->
-  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=jaopdc11&theme=dracula&show_icons=true&hide_border=true"/>
-  <img width="35.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaopdc11&layout=compact&langs_count=10&theme=dracula&hide_border=true"/>
+  <img width="54%" src="https://gh-readme-stats.vercel.app/api?username=jaopdc11&include_all_commits=true&theme=dracula&show_icons=true&hide_border=true"/>
+  <img width="35.6%" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=jaopdc11&layout=compact&langs_count=10&theme=dracula&hide_border=true"/>
 </div>
 
 ---
