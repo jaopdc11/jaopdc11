@@ -17,7 +17,7 @@
   <img width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaopdc11&theme=dracula&hide_border=true"/>
   <img width="24%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaopdc11&layout=compact&langs_count=10&theme=dracula&hide_border=true"/> -->
   <img width="54%" src="https://github-readme-stats-jaopdc11s-projects.vercel.app/api?username=jaopdc11&theme=dracula&show_icons=true&hide_border=true&v=3"/>
-  <img width="35.6%" src="https://github-readme-stats-jaopdc11s-projects.vercel.app/api/top-langs/?username=jaopdc11&layout=compact&langs_count=10&theme=dracula&hide_border=true&v=3"/>
+  <img width="31.6%" src="https://github-readme-stats-jaopdc11s-projects.vercel.app/api/top-langs/?username=jaopdc11&layout=compact&langs_count=10&theme=dracula&hide_border=true&v=3"/>
 </div>
 
 ---
@@ -74,7 +74,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="brazilian-portuguese" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="english" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png" alt="Italian" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/383px-Flag_of_Spain.svg.png" alt="Spain" height="30"/>
+  <img src="https://cdn.britannica.com/36/4336-050-056AC114/Flag-Spain.jpg?w=1000" alt="Spain" height="30"/>
 </p>
 
 ---
